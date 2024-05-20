@@ -4,8 +4,8 @@ plugins {
     id("maven-publish")
 }
 
-group = "com.ovidiucristurean"
-version = "0.1.0"
+group = "io.github.ovicristurean"
+version = "0.1.1"
 
 publishing {
     repositories {
@@ -30,6 +30,7 @@ kotlin {
                 jvmTarget = "1.8"
             }
         }
+        publishLibraryVariants("release", "debug")
     }
     
     listOf(
