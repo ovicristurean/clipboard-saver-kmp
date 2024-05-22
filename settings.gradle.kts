@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ClipboardSaver"
-include(":shared")
+rootProject.name = "MyClipboardSaver"
+include(":clipboard-saver")
