@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "io.github.ovicristurean"
-version = "0.1.2"
+version = "0.1.3"
 
 mavenPublishing {
     // Define coordinates for the published artifact
