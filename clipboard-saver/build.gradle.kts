@@ -3,19 +3,15 @@ import com.vanniktech.maven.publish.SonatypeHost
 plugins {
     alias(libs.plugins.kotlinMultiplatform)
     alias(libs.plugins.androidLibrary)
-    id("maven-publish")
     id("com.vanniktech.maven.publish") version "0.28.0"
 }
-
-group = "io.github.ovicristurean"
-version = "0.1.3"
 
 mavenPublishing {
     // Define coordinates for the published artifact
     coordinates(
         groupId = "io.github.ovicristurean",
         artifactId = "clipboard-saver",
-        version = "0.1.2"
+        version = "1.0.0"
     )
 
     // Configure POM metadata for the published artifact
