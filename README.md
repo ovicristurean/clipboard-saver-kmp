@@ -60,4 +60,7 @@ Sample app:
 
 https://github.com/ovicristurean/clipboard-saver-kmp/assets/44752306/a6fb68b2-1347-4628-9baf-32752012d8b3
 
+https://github.com/ovicristurean/clipboard-saver-kmp/assets/44752306/600828aa-4142-4508-8890-5c39fe1919f9
+
+
 
