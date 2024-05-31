@@ -55,3 +55,9 @@ actual class ClipboardSaverProvider {
     }
 }
 ```
+
+Sample app:
+
+https://github.com/ovicristurean/clipboard-saver-kmp/assets/44752306/a6fb68b2-1347-4628-9baf-32752012d8b3
+
+
